@@ -1,1 +1,1 @@
-This is my third file while learning GitHub.
+This is the newer version of chapter3 file.
